@@ -1,5 +1,6 @@
 // listen for button clicks
 function init() {
+    debugger;
     document.getElementById("placeOrder").addEventListener("click", placeOrder);
 };
 
