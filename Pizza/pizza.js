@@ -68,3 +68,4 @@ function calculateDelivery(orderPrice, deliveryCity, birthday) {
     }
     return deliveryPrice;
 }
+// end here
